@@ -1,0 +1,13 @@
+# Demo questions for the synthetic DEMO rulebook. One JSON object per line.
+{"id": "d01", "question": "How long can I borrow a power tool?", "expected_ids": ["DEMO 2.1.1R"], "answerable": true}
+{"id": "d02", "question": "What is the maximum number of items I can have out at once?", "expected_ids": ["DEMO 2.2.1R"], "answerable": true}
+{"id": "d03", "question": "How much is the fee if I bring something back late?", "expected_ids": ["DEMO 3.1.1R"], "answerable": true}
+{"id": "d04", "question": "Do I need training before taking out a chainsaw?", "expected_ids": ["DEMO 4.1.1R"], "answerable": true}
+{"id": "d05", "question": "Can I extend my loan?", "expected_ids": ["DEMO 2.2.2R"], "answerable": true}
+{"id": "d06", "question": "Who is allowed to join the library?", "expected_ids": ["DEMO 1.2.1R"], "answerable": true}
+{"id": "d07", "question": "Are safety goggles provided?", "expected_ids": ["DEMO 4.1.2R"], "answerable": true}
+{"id": "d08", "question": "What happens if I was ill and returned a tool late?", "expected_ids": ["DEMO 3.1.2G", "DEMO 3.1.1R"], "answerable": true}
+{"id": "d09", "question": "How long does membership last?", "expected_ids": ["DEMO 1.2.2R"], "answerable": true}
+{"id": "d10", "question": "Do I have to tell staff if I break a tool?", "expected_ids": ["DEMO 3.2.1R"], "answerable": true}
+{"id": "d11", "question": "What is the interest rate on a pawnbroking loan?", "expected_ids": [], "answerable": false}
+{"id": "d12", "question": "Can I pay my membership fee in euros?", "expected_ids": [], "answerable": false}

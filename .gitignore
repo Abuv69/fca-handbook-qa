@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+# Raw Handbook snapshots are FCA content: keep them out of the public repo.
+data/raw/
+# Your real evaluation runs are fine to commit; the demo ones are regenerated.
+eval/results/demo_*
+.DS_Store

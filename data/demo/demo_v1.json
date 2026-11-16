@@ -1,0 +1,95 @@
+{
+  "_note": "SYNTHETIC demo data for a fictional tool library. It is NOT FCA Handbook content.",
+  "items": [
+    {
+      "provision_id": "DEMO 1.1.1R",
+      "title": "Purpose",
+      "body": "This rulebook sets out the rules for borrowing items from the Riverside Tool Library. It applies to every member.",
+      "url": "https://example.org/demo-rulebook#DEMO-1.1.1R"
+    },
+    {
+      "provision_id": "DEMO 1.1.2G",
+      "title": "Purpose",
+      "body": "The rules aim to keep tools available, safe and in good repair for all members.",
+      "url": "https://example.org/demo-rulebook#DEMO-1.1.2G"
+    },
+    {
+      "provision_id": "DEMO 1.2.1R",
+      "title": "Membership",
+      "body": "A person must be 18 or over and show proof of address to become a member.",
+      "url": "https://example.org/demo-rulebook#DEMO-1.2.1R"
+    },
+    {
+      "provision_id": "DEMO 1.2.2R",
+      "title": "Membership",
+      "body": "Membership lasts 12 months from the date of joining and may be renewed in the final month.",
+      "url": "https://example.org/demo-rulebook#DEMO-1.2.2R"
+    },
+    {
+      "provision_id": "DEMO 2.1.1R",
+      "title": "Loan periods",
+      "body": "A member may borrow a power tool for up to 3 days.",
+      "url": "https://example.org/demo-rulebook#DEMO-2.1.1R"
+    },
+    {
+      "provision_id": "DEMO 2.1.2R",
+      "title": "Loan periods",
+      "body": "A member may borrow a hand tool for up to 14 days.",
+      "url": "https://example.org/demo-rulebook#DEMO-2.1.2R"
+    },
+    {
+      "provision_id": "DEMO 2.1.3G",
+      "title": "Loan periods",
+      "body": "Staff may shorten a loan period in busy seasons, such as spring, when demand for garden tools is high.",
+      "url": "https://example.org/demo-rulebook#DEMO-2.1.3G"
+    },
+    {
+      "provision_id": "DEMO 2.2.1R",
+      "title": "Borrowing limits",
+      "body": "A member must not hold more than 5 items at the same time.",
+      "url": "https://example.org/demo-rulebook#DEMO-2.2.1R"
+    },
+    {
+      "provision_id": "DEMO 2.2.2R",
+      "title": "Renewals",
+      "body": "A loan may be renewed once, provided no other member has reserved the item.",
+      "url": "https://example.org/demo-rulebook#DEMO-2.2.2R"
+    },
+    {
+      "provision_id": "DEMO 3.1.1R",
+      "title": "Late returns",
+      "body": "A late fee of 50p per item per day applies after the due date, capped at 10 pounds per item.",
+      "url": "https://example.org/demo-rulebook#DEMO-3.1.1R"
+    },
+    {
+      "provision_id": "DEMO 3.1.2G",
+      "title": "Late returns",
+      "body": "Staff should waive late fees where a member was prevented from returning an item by illness.",
+      "url": "https://example.org/demo-rulebook#DEMO-3.1.2G"
+    },
+    {
+      "provision_id": "DEMO 3.2.1R",
+      "title": "Damage",
+      "body": "A member must report any damage to an item when returning it.",
+      "url": "https://example.org/demo-rulebook#DEMO-3.2.1R"
+    },
+    {
+      "provision_id": "DEMO 3.2.2G",
+      "title": "Damage",
+      "body": "Normal wear, such as blunt blades, is not treated as damage.",
+      "url": "https://example.org/demo-rulebook#DEMO-3.2.2G"
+    },
+    {
+      "provision_id": "DEMO 4.1.1R",
+      "title": "Safety",
+      "body": "A member must complete the safety induction before borrowing a chainsaw or an angle grinder.",
+      "url": "https://example.org/demo-rulebook#DEMO-4.1.1R"
+    },
+    {
+      "provision_id": "DEMO 4.1.2R",
+      "title": "Safety",
+      "body": "Protective goggles are lent free of charge with every power tool and must be returned with it.",
+      "url": "https://example.org/demo-rulebook#DEMO-4.1.2R"
+    }
+  ]
+}

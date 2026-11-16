@@ -1,0 +1,6 @@
+# YOUR evaluation set. Replace these lines with about 100 answerable questions and 20 unanswerable ones.
+# expected_ids must be real provision IDs that you have checked in the Handbook yourself.
+# Lines starting with # are ignored. The three lines below show the format only; the IDs are placeholders.
+{"id": "q001", "question": "<a question a shop colleague might ask>", "expected_ids": ["CONC X.X.XR"], "answerable": true, "topic": "<e.g. arrears>", "difficulty": "easy"}
+{"id": "q002", "question": "<a question answered by two provisions>", "expected_ids": ["CONC X.X.XR", "CONC X.X.XG"], "answerable": true, "topic": "<topic>", "difficulty": "hard"}
+{"id": "q101", "question": "<a question the sourcebook does not cover>", "expected_ids": [], "answerable": false, "topic": "out_of_scope"}
