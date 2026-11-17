@@ -1,7 +1,10 @@
 .PHONY: install up down init demo test eval-demo api ui
 
+# onnxruntime (needed by fastembed) has no wheels for Python 3.15 yet
+PYTHON ?= python3.12
+
 install:        ## create a virtualenv and install the project
-	python3 -m venv .venv && .venv/bin/pip install -e ".[ui,dev]"
+	$(PYTHON) -m venv .venv && .venv/bin/pip install -e ".[ui,dev]"
 
 up:             ## start Postgres (with pgvector) in Docker
 	docker compose up -d db
